@@ -1,4 +1,6 @@
 # Amazon-Apparel-Recommendation
+<img src='https://s3.amazonaws.com/poly-screenshots.angel.co/Project/b3/793703/d3173ba84fe4cd2248f0bde23fab625a-thumb_jpg.jpg'>
+
 
 Recommending similar products (apparel) to the given product (apparel) in any e-commerce websites. 
 
